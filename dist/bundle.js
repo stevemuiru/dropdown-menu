@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{!function(){const e=document.querySelector("#my-dropdown"),t=e.querySelector(".dropdown-trigger"),o=e.querySelector(".dropdown-menu");t.addEventListener("click",(()=>{o.classList.toggle("visible")}))}()}))})();
